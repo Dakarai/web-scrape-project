@@ -1,6 +1,5 @@
 import bs4 as bs4
 import requests as requests
-import lxml as lxml
 
 base_url = 'http://books.toscrape.com/catalogue/page-{}.html'
 
